@@ -1,0 +1,16 @@
+{
+  "name": "asyncjs-landingpage-prueba",
+  "version": "1.0.0",
+  "description": "Un proyecto prueba de una Landing Page utilizando JS async y API de YT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
